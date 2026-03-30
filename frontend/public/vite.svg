@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="white" rx="80" />
+  <!-- House Roof -->
+  <path d="M50 200 L200 70 L350 200" fill="none" stroke="#2196F3" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 200 L200 95 L320 200" fill="none" stroke="#2196F3" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Chimney -->
+  <rect x="270" y="105" width="35" height="55" fill="#2196F3" />
+  
+  <!-- Window -->
+  <rect x="160" y="160" width="36" height="36" fill="#2196F3" />
+  <rect x="204" y="160" width="36" height="36" fill="#2196F3" />
+  <rect x="160" y="204" width="36" height="36" fill="#2196F3" />
+  <rect x="204" y="204" width="36" height="36" fill="#2196F3" />
+  
+  <!-- "HLT" Initialism instead of full text for better icon visibility -->
+  <text x="200" y="320" font-family="Arial, sans-serif" font-weight="bold" font-size="64" text-anchor="middle">
+    <tspan fill="#2196F3">HL</tspan><tspan fill="#FF9800">T</tspan>
+  </text>
+</svg>

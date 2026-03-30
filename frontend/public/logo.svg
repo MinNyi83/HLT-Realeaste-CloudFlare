@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- House Roof -->
+  <path d="M50 180 L200 50 L350 180" fill="none" stroke="#2196F3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 180 L200 70 L330 180" fill="none" stroke="#2196F3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Chimney -->
+  <rect x="280" y="80" width="30" height="50" fill="#2196F3" />
+  
+  <!-- Window -->
+  <rect x="165" y="140" width="32" height="32" fill="#2196F3" />
+  <rect x="203" y="140" width="32" height="32" fill="#2196F3" />
+  <rect x="165" y="178" width="32" height="32" fill="#2196F3" />
+  <rect x="203" y="178" width="32" height="32" fill="#2196F3" />
+  
+  <!-- Text -->
+  <text x="200" y="260" font-family="Arial, sans-serif" font-weight="bold" font-size="42" text-anchor="middle">
+    <tspan fill="#2196F3">HTEIN</tspan>
+    <tspan fill="#FF9800" dx="10">LIN</tspan>
+    <tspan fill="#FF9800" dx="10">THAR</tspan>
+  </text>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\""
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.30.2",
+    "concurrently": "^9.2.1",
+    "vite": "^8.0.3",
+    "wrangler": "^4.78.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "com.hteinlinthar.realestate",
+  "appName": "Htein Lin Thar",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  }
+}
